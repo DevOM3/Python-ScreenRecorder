@@ -1,0 +1,7 @@
+('c:\\users\\ompra\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pexpect-4.8.0-py3.7.egg',
+ None,
+ {'*.cp37-win_amd64.pyd', 'EGG-INFO', '*.pyc', '*.py', '*.pyw', '*.pyd'},
+ 'DATA',
+ [('pexpect\\bashrc.sh',
+   'c:\\users\\ompra\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pexpect-4.8.0-py3.7.egg\\pexpect\\bashrc.sh',
+   'DATA')])
